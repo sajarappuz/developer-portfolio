@@ -107,19 +107,19 @@ export const projects = [
         title:"travel website",
         desc:"it is a ui of travel wes-bsut === using react class components"
     },
-    // {
-    //     img:,
-    //     title:"",
-    //     desc:""
-    // }
-    // {
-    //     img:,
-    //     title:"",
-    //     desc:""
-    // }
-    // {
-    //     img:,
-    //     title:"",
-    //     desc:""
-    // }
+    {
+        img:"/metaverse.png",
+        title:"Metaverse ui",
+        desc:"rooifprwipiri"
+    },
+    {
+        img:"/ecommerce.png",
+        title:"Ecommerce Website",
+        desc:"rhdwauhdjhfvhesfjjver"
+    },
+    {
+        img:"/blog.png",
+        title:"Blog Website",
+        desc:"piurprirefhrh"
+    },
 ]

@@ -2,6 +2,8 @@ import Hero from "@/components/Hero";
 import About from "./about/page";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
+import Contact from "@/components/Contact";
+
 
 
 export default function Home() {
@@ -14,6 +16,7 @@ export default function Home() {
       <hr className="my-10 hidden md:block" />
       <Projects/>
       <hr className="my-10 hidden md:block" />
+      <Contact/>
     </div>
   )
 }
